@@ -1,12 +1,18 @@
-## This is an example of how Assignment 1 should be submitted
+## Assignment 1
 
-* We have three directories
+* three directories
   * [html](html)
   * [javascript](javascript)
   * [node](node)
-<img src="images/htmllearnyouhtml.png" width="700" alt="htmllearnyouhtml exercise 1 of 11">
-<img src="images/javascript.png" width="700" alt="Javascripting exercise 1 of 20">
-<img src="images/learnyounode.png" width="700" alt="Learn You Node exercise 1 of 13">
 
+* Here are screenshots of completion.
+### Learn You HTML
+<img src="![assignments/Kassa/1/htmllearnyouhtml.png](images/htmllearnyouhtml.png)" width="700">
 
-* The video of the files and test completion pages is available at: [https://youtu.be/NdTHMG_RX-c](https://youtu.be/NdTHMG_RX-c)
+### Javascripting
+<img src="C:\Users\danie\cs533-f25\assignments\Kassa\1\images\javascript.png" width="700">
+
+### Learn You Node
+<img src="C:\Users\danie\cs533-f25\assignments\Kassa\1\images\learnyounode.png" width="700">
+
+*A video showing the files and test completion pages is available here  https://youtu.be/ZN_opaYqWRU
